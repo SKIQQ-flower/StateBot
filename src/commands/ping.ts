@@ -32,7 +32,7 @@ export default class PingCommand extends Command {
       embeds: [
         embed
           .setTitle(':satellite: Delay, ping... Chame do que for')
-          .setDescription(`A grande matriarca Discord:tm: está respondendo o bot com um delay de \`${ping}\` milisegundos!`)
+          .setDescription(`A grande matriarca Discord:tm: está respondendo o bot com um delay de \`${ping}\` milissegundos!`)
           .setColor(0x99B2FF)
           .setImage("https://i.imgur.com/dGsxQGu.png")
           .setThumbnail("https://i.imgur.com/bqFduTv.png")
